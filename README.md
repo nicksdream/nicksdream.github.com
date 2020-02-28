@@ -1,2 +1,2 @@
-# nick.smthe.com
-https://nick.smthe.com
+# learn.smthe.com
+http://learn.smthe.com
